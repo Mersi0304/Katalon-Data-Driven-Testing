@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify unsuccessful login with invalid credentials</description>
+   <name>TC002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02592032-a42b-4939-970d-3630b5a33c56</testCaseGuid>
+</TestCaseEntity>
